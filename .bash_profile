@@ -80,6 +80,7 @@ fr() {
 # GGGGG
 alias ga="git add ."
 alias gs="git status"
+alias gl="git log"
 # HHHHH
 alias h="cd ~"
 # IIIII
