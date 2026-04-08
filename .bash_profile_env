@@ -1,0 +1,3 @@
+export DirectoryBashProfile="$DirectoryRepos/bash-profile"
+alias cd-bash-profile="cd $DirectoryBashProfile"
+alias clone-bash-profile="rep && git clone git@github.com:CodeMasterdroid/bash-profile.git"
